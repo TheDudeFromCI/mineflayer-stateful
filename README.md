@@ -43,8 +43,8 @@ runSomeLogic(state, 10)
 // The bot preforms no action, yet "air" is still printed to the console.
 
 // By sampling the state, it appears that the world has been modified.
-// state.getBlockAt(...)
+state.getBlockAt(...)
 
 // But run the same function again on the actual bot, and the world remains unchanged.
-// bot.getBlockAt(...)
+bot.getBlockAt(...)
 ```
