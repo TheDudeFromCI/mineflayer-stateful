@@ -1,6 +1,6 @@
 <h1 align="center">mineflayer-stateful</h1>
 <p align="center"><em>A copy-on-write wrapper for <a href="https://github.com/PrismarineJS/mineflayer">Mineflayer</a> bots to allow testing and AI mental simulations.</em></p>
-
+<br>
 ***This plugin is not ready for release.***
 
 ---
